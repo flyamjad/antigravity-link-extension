@@ -19,9 +19,9 @@ Bring your Antigravity sessions to your phone. Upload files, dictate prompts, an
 
 | | | |
 | --- | --- | --- |
-| ![Demo 1](demo_photos/1769391120745-IMG_0857.png) | ![Demo 2](demo_photos/1769391144709-IMG_0856.png) | ![Demo 3](demo_photos/1769391155346-IMG_0855.png) |
-| ![Demo 4](demo_photos/1769391162186-IMG_0854.png) | ![Demo 5](demo_photos/1769391172827-IMG_0853.png) | ![Demo 6](demo_photos/1769391181215-IMG_0852.png) |
-| ![Demo 7](demo_photos/1769391189291-IMG_0851.png) | | |
+| ![Demo 1](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391120745-IMG_0857.png) | ![Demo 2](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391144709-IMG_0856.png) | ![Demo 3](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391155346-IMG_0855.png) |
+| ![Demo 4](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391162186-IMG_0854.png) | ![Demo 5](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391172827-IMG_0853.png) | ![Demo 6](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391181215-IMG_0852.png) |
+| ![Demo 7](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391189291-IMG_0851.png) | | |
 
 ## Quick start
 
