@@ -3,7 +3,7 @@
     "displayName": "Antigravity Link",
     "description": "Mobile upload and voice-to-text bridge for Antigravity",
     "icon": "icon.png",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "license": "MIT",
     "engines": {
         "vscode": "^1.90.0"
@@ -14,7 +14,7 @@
     "publisher": "cafetechne",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cafeTechne/Antigravity-Link"
+        "url": "https://github.com/cafeTechne/antigravity-link-extension"
     },
     "activationEvents": [
         "onStartupFinished",

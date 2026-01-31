@@ -1,9 +1,13 @@
 # Changelog
 
+## 1.0.9
+
+- Correct repository and issue URLs in `package.json` and `CHANGELOG.md`.
+
 ## 1.0.8
 
 - Fix: Resolved `EROFS: read-only file system` error on macOS by moving SSL certificate storage to the extension directory.
-- Closes #1.
+- Closes [#1](https://github.com/cafeTechne/antigravity-link-extension/issues/1).
 
 
 - Add README badges and repository links.
